@@ -15,12 +15,8 @@ namespace PatronRepositoriosTests
     public class RepositorioBasesTests
     {
         [TestMethod()]
-        public void RepositorioBaseTest()
-        {
-
-        }
-
-        [TestMethod()]
+      
+       
         public void GuardarTest()
         {
             RepositorioBases<Empleados> repositorio = new RepositorioBases<Empleados>();

@@ -152,7 +152,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "cEmpleados";
-            this.Text = "Consulta de empleados";
+            this.Text = "Consulta de Empleados";
             ((System.ComponentModel.ISupportInitialize)(this.ConsultadataGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
