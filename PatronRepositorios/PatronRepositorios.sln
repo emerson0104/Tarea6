@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositorios", "PatronRepositorios\PatronRepositorios.csproj", "{F08EC18B-2B46-42A5-A3C5-352CA1DDC15D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositoriosTests", "PatronRepositoriosTests\PatronRepositoriosTests.csproj", "{CB55028C-09A4-4B39-AE14-F9CAE5BFCFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08EC18B-2B46-42A5-A3C5-352CA1DDC15D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08EC18B-2B46-42A5-A3C5-352CA1DDC15D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08EC18B-2B46-42A5-A3C5-352CA1DDC15D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08EC18B-2B46-42A5-A3C5-352CA1DDC15D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB55028C-09A4-4B39-AE14-F9CAE5BFCFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB55028C-09A4-4B39-AE14-F9CAE5BFCFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB55028C-09A4-4B39-AE14-F9CAE5BFCFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB55028C-09A4-4B39-AE14-F9CAE5BFCFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCDF698-17FB-41A4-8CFC-7AB6B4B08882}
+	EndGlobalSection
+EndGlobal
